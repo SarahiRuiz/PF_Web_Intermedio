@@ -1,0 +1,32 @@
+.borde{
+    border: 1px rgb(207, 207, 207) solid;
+}
+
+.principal-forma{
+    margin: 0 15% 0 15%;
+}
+
+.imgRedonda {
+    width:50px;
+    height:50px;
+    border-radius:150px;
+    border: 3px orange solid;
+}
+
+.imgRedonda:hover{
+    border: 3px palevioletred solid;
+    transition-duration: 1s;
+    
+}
+
+.imagenRedondaIzq{
+    margin-left: 10px;
+    width:50px;
+    height:50px;
+    border-radius:150px;
+    border: 1px black solid;
+}
+
+.boton-cambiar{
+    text-decoration: none;
+}
